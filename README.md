@@ -1,3 +1,7 @@
+# about developer
+Hello, my name `Sheikh El-Moctar`, I'm `software engineer full-stack`, this repository is ***open source***, you can edit on it and improve code and then `pull request`.
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

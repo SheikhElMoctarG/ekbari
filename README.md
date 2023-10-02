@@ -1,6 +1,12 @@
 # about developer
 Hello, my name `Sheikh El-Moctar`, I'm `software engineer full-stack`, this repository is ***open source***, you can edit on it and improve code and then `pull request`.
 
+demo on phone samsung.
+![this is demo on my phone](./assets/imgs/demo.png)
+
+
+demo on computer.
+![this is demo on my phone](./assets/imgs/demo%20on%20computer%20.png)
 
 # Nuxt 3 Minimal Starter
 
